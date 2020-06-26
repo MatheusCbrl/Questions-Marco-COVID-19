@@ -1,6 +1,6 @@
 # Marco-COVID-19
 
-[View Final WEB SITE](http://mitchgavan.github.io/react-multi-choice-quiz/)
+[View Final WEB SITE](https://questionario-covid19-marcopolo.netlify.app)
 
 There's also an accompanying [tutorial blog post](https://mitchgavan.com/react-quiz/).
 
