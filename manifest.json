@@ -1,0 +1,8 @@
+{
+  "short_name": "Marco COVID-19",
+  "name": "Marco COVID-19",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e87200",
+  "background_color": "#ffffff"
+}
