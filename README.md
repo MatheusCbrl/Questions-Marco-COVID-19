@@ -47,3 +47,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `Project Hosted in NETLIFY`
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/664b9ec3-7bd9-4467-8275-9ca40fdca0aa/deploy-status)](https://app.netlify.com/sites/questionario-covid19-marcopolo/deploys)
